@@ -1,0 +1,98 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #000;
+  color: #fff;
+}
+
+/* Header */
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 50px;
+  position: absolute;
+  width: 100%;
+  z-index: 10;
+}
+
+.logo {
+  font-size: 28px;
+  font-weight: bold;
+  color: red;
+}
+
+.sign-in {
+  background: red;
+  border: none;
+  padding: 8px 16px;
+  color: white;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+/* Hero */
+.hero {
+  height: 100vh;
+  background: url('https://assets.nflxext.com/ffe/siteui/vlv3/hero-background.jpg') no-repeat center center/cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+  text-align: center;
+}
+
+.hero h1 {
+  font-size: 3rem;
+}
+
+.hero p {
+  font-size: 1.5rem;
+}
+
+.email-box {
+  display: flex;
+  gap: 10px;
+}
+
+.email-box input {
+  padding: 10px;
+  width: 250px;
+  border: none;
+}
+
+.email-box button {
+  padding: 10px 20px;
+  background: red;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+/* Rows */
+.row {
+  padding: 20px;
+}
+
+.row-posters {
+  display: flex;
+  overflow-x: scroll;
+}
+
+.row-posters img {
+  width: 180px;
+  margin-right: 10px;
+  transition: transform 0.3s;
+}
+
+.row-posters img:hover {
+  transform: scale(1.1);
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  padding: 20px;
+  background: #111;
+}
