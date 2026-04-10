@@ -2,16 +2,25 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Netflix Clone</title>
+  <title>Lamboshe Blone</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-
+<input type="text" id="searchInput" placeholder="Search movies...">
 <header>
-  <div class="logo">NETFLIX</div>
+  <div class="logo">LamFLIX</div>
   <button class="sign-in">Sign In</button>
 </header>
 
+
+
+<div class="search-box">
+  <input type="text" id="searchInput" placeholder="Search movies...">
+  <button onclick="goToSearch()">Search</button>
+</div>
+
+
+<div id="results"></div>
 <section class="hero">
   <h1>Unlimited movies, TV shows, and more.</h1>
   <p>Watch anywhere. Cancel anytime.</p>
@@ -24,6 +33,16 @@
 
 <section class="row">
   <h2>Trending Now</h2>
+  <h2>Search Results</h2>
+<div id="result"></div>
+
+<script>
+  const params = new URLSearchParams(window.location.search);
+  const query = params.get("q");
+
+  document.getElementById("result").innerHTML =
+    "You searched for: " + query;
+</script>
   <div class="row-posters" id="trending"></div>
 </section>
 
@@ -33,7 +52,10 @@
 </section>
 
 <footer>
-  <p>Netflix Clone © 2026</p>
+  <p>
+    <span class="big-text">Lam</span>FLIX Bone <br>
+    © 2026
+  </p>
 </footer>
 
 <script src="script.js"></script>
