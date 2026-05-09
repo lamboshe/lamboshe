@@ -2,36 +2,43 @@
 
 ## 💻 Technical Engineer | Developer | Network & Media Systems Specialist
 
-I am a passionate **technology and technical solutions engineer** who deals with installation, maintenance, and digital development systems. I combine **hands-on technical work** with **software development skills** to deliver modern, efficient solutions.
+![Profile Views](https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat)
+
+I am a passionate **technology engineer and software developer** specializing in both **real-world technical systems** and **modern web development**. I combine hands-on IT work with coding to build smart solutions.
 
 ---
 
-## 🔧 What I Do
+## ⚡ Motto
 
-### 📡 Technical Services
-- DSTV installation & configuration
-- WiFi setup, boosting & troubleshooting
-- Network cabling & internet setup
-- CCTV installation & maintenance
-- General IT support & troubleshooting
-
-### 💻 Software & Development
-- Frontend Web Development (HTML, CSS, JavaScript)
-- React.js applications
-- UI/UX design basics
-- Git & GitHub version control
-- Building simple web apps & landing pages
+> “From cables to code — I build systems that connect the world.”
 
 ---
 
-## 🧠 Skills
+## 🔧 Technical Services
 
-```text
-✔ DSTV Installation
-✔ WiFi Networking
-✔ CCTV Systems
-✔ HTML5 / CSS3 / JavaScript
-✔ React.js (Beginner–Intermediate)
-✔ Git & GitHub
-✔ Problem Solving
-✔ Technical Maintenance
+- 📡 DSTV installation & signal setup  
+- 🌐 WiFi installation, boosting & troubleshooting  
+- 🔌 Network cabling & internet configuration  
+- 📹 CCTV installation & maintenance  
+- 🛠 General IT support & repairs  
+
+---
+
+## 💻 Development Skills
+
+- 🌐 HTML5, CSS3, JavaScript  
+- ⚛️ React.js (Frontend Development)  
+- 🧠 Basic Backend understanding  
+- 🔗 Git & GitHub Version Control  
+- 🎨 UI/UX Design basics  
+- 🚀 Building responsive web apps  
+
+---
+
+## 🧰 Tech Stack
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Git](https://img.shields.io/badge/GIT-E44C30
