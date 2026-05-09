@@ -1,60 +1,75 @@
-# 👋 Hi, I'm Sean Awili
+# 👋 Hey, I'm Sean Awili
 
-💻 Frontend Developer | 🎟️ Ticket Marketplace Developer | 🎬 Creative Technologist
+💻 Passionate Developer | 🎬 Creative Videographer | 🇰🇪 Kenya
 
-I’m passionate about building modern web applications and solving real-world problems through technology. Currently focused on frontend development, UI/UX design, and full-stack learning.
+I’m learning and building projects using:
+- HTML
+- CSS
+- JavaScript
+- React
+- Node.js
+- Git & GitHub
+
+Currently working on:
+🎟️ Ticket Marketplace App
 
 ---
 
 ## 🚀 About Me
-- 🌱 Learning HTML, CSS, JavaScript & React
-- 🎟️ Building a Ticket Marketplace App
-- 📱 Practicing coding daily on mobile & laptop
-- 🎬 Creative in videography and digital content
-- 🔥 Interested in startups, tech & innovation
+
+I'm a beginner developer focused on improving my coding skills every day.  
+I enjoy building web applications, solving problems, and learning modern technologies.
+
+I also do:
+- Videography
+- Video Editing
+- Digital Marketing
 
 ---
 
 ## 🛠️ Tech Stack
+
+### Frontend
 - HTML5
 - CSS3
 - JavaScript
-- React (Learning)
-- Git & GitHub
-- Responsive Design
+- React
+
+### Backend
+- Node.js
+- Express
+
+### Tools
+- Git
+- GitHub
+- VS Code
 
 ---
 
-## 📂 Featured Project
+## 📂 Featured Projects
 
 ### 🎟️ Ticket Marketplace App
-A web application that allows users to browse events and book tickets online.
+A ticket booking and selling platform built using React and Node.js.
 
-🔗 Project Repository:  
-https://github.com/lamboshe/TICKET-MARKERT-PLACE
-
-### Features
-- Event Listings
-- Ticket Booking UI
-- Event Details Page
-- Responsive Frontend Design
-- Modern User Interface
+🔗 Repository:  
+[TICKET-MARKERT-PLACE](https://github.com/lamboshe/TICKET-MARKERT-PLACE?utm_source=chatgpt.com)
 
 ---
 
-## 📈 Current Goals
-- Become a professional frontend developer
-- Learn backend development
-- Build scalable web applications
-- Contribute to open-source projects
+## 📈 GitHub Stats
+
+![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=lamboshe&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lamboshe&layout=compact)
 
 ---
 
-## 📫 Connect With Me
-- GitHub: https://github.com/lamboshe
-- YouTube: https://youtube.com/@YOURCHANNEL
+## 🌍 Connect With Me
+
+- GitHub: [lamboshe GitHub](https://github.com/lamboshe?utm_source=chatgpt.com)
 
 ---
 
-## ⚡ Quote
-> “Turning ideas into digital experiences.”
+## ⚡ Motto
+
+> "Code. Learn. Build. Repeat."
