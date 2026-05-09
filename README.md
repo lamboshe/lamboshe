@@ -1,4 +1,3 @@
-
 # 👋 Hi, I'm Sean Awili
 
 💻 Frontend Developer | 🎟️ Ticket Marketplace Developer | 🎬 Creative Technologist
