@@ -1,75 +1,37 @@
-# 👋 Hey, I'm Sean Awili
+# 👋 Hi, I'm Sean Awili
 
-💻 Passionate Developer | 🎬 Creative Videographer | 🇰🇪 Kenya
+## 💻 Technical Engineer | Developer | Network & Media Systems Specialist
 
-I’m learning and building projects using:
-- HTML
-- CSS
-- JavaScript
-- React
-- Node.js
-- Git & GitHub
-
-Currently working on:
-🎟️ Ticket Marketplace App
+I am a passionate **technology and technical solutions engineer** who deals with installation, maintenance, and digital development systems. I combine **hands-on technical work** with **software development skills** to deliver modern, efficient solutions.
 
 ---
 
-## 🚀 About Me
+## 🔧 What I Do
 
-I'm a beginner developer focused on improving my coding skills every day.  
-I enjoy building web applications, solving problems, and learning modern technologies.
+### 📡 Technical Services
+- DSTV installation & configuration
+- WiFi setup, boosting & troubleshooting
+- Network cabling & internet setup
+- CCTV installation & maintenance
+- General IT support & troubleshooting
 
-I also do:
-- Videography
-- Video Editing
-- Digital Marketing
-
----
-
-## 🛠️ Tech Stack
-
-### Frontend
-- HTML5
-- CSS3
-- JavaScript
-- React
-
-### Backend
-- Node.js
-- Express
-
-### Tools
-- Git
-- GitHub
-- VS Code
+### 💻 Software & Development
+- Frontend Web Development (HTML, CSS, JavaScript)
+- React.js applications
+- UI/UX design basics
+- Git & GitHub version control
+- Building simple web apps & landing pages
 
 ---
 
-## 📂 Featured Projects
+## 🧠 Skills
 
-### 🎟️ Ticket Marketplace App
-A ticket booking and selling platform built using React and Node.js.
-
-🔗 Repository:  
-[TICKET-MARKERT-PLACE](https://github.com/lamboshe/TICKET-MARKERT-PLACE?utm_source=chatgpt.com)
-
----
-
-## 📈 GitHub Stats
-
-![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=lamboshe&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lamboshe&layout=compact)
-
----
-
-## 🌍 Connect With Me
-
-- GitHub: [lamboshe GitHub](https://github.com/lamboshe?utm_source=chatgpt.com)
-
----
-
-## ⚡ Motto
-
-> "Code. Learn. Build. Repeat."
+```text
+✔ DSTV Installation
+✔ WiFi Networking
+✔ CCTV Systems
+✔ HTML5 / CSS3 / JavaScript
+✔ React.js (Beginner–Intermediate)
+✔ Git & GitHub
+✔ Problem Solving
+✔ Technical Maintenance
